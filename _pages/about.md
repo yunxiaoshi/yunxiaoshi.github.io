@@ -37,4 +37,4 @@ Prior to joining Qualcomm I obtained an MS in computer science at NYU. Before th
 ## Software Package(s)
 + **Neural IMage Assessment**  
   Implementation of [this paper](https://arxiv.org/abs/1709.05424) which predicts photo aesthetic scores that mimics human perception. It does so by learning an empirical distribution of photographer ratings.  
-  \[[GitHub](https://github.com/kentsyx/Neural-IMage-Assessment)\]
+  \[[GitHub](https://github.com/yunxiaoshi/Neural-IMage-Assessment)\]
