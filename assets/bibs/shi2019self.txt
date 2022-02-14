@@ -1,0 +1,6 @@
+@article{shi2019self,
+  title={Self-Supervised Learning of Depth and Ego-motion with Differentiable Bundle Adjustment},
+  author={Shi, Yunxiao and Zhu, Jing and Fang, Yi and Lien, Kuochin and Gu, Junli},
+  journal={arXiv preprint arXiv:1909.13163},
+  year={2019}
+}

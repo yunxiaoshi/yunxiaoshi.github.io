@@ -1,0 +1,8 @@
+@inproceedings{shi2017adaptive,
+  title={Adaptive $$ L\_p $$$$(0< p< 1) $$ Regularization: Oracle Property and Applications},
+  author={Shi, Yunxiao and He, Xiangnan and Wu, Han and Jin, Zhong-Xiao and Lu, Wenlian},
+  booktitle={International Conference on Neural Information Processing},
+  pages={13--23},
+  year={2017},
+  organization={Springer}
+}
