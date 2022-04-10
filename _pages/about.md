@@ -6,7 +6,7 @@ title: About
 permalink: /
 ---
 
-I am currently a research engineer at Qualcomm AI Research. My main research focuses on 3D reconstruction from video. I am also keenly interested in mathematics and programming languages.
+I am currently a research engineer at Qualcomm AI Research. My main research focuses on 3D reconstruction from video. I am also broadly interested in mathematics and programming languages.
 
 Prior to joining Qualcomm I obtained an MS in computer science at NYU. Before that I graduated with a BS and an MS both in applied mathematics from Fudan University.
 
