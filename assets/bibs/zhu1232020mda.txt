@@ -1,6 +1,0 @@
-@inproceedings{zhu1232020mda,
-  title={MDA-Net: Memorable Domain Adaptation Network for Monocular Depth Estimation},
-  author={Zhu123, Jing and Shi12, Yunxiao and Ren, Mengwei and Fang, Yi},
-  booktitle={British Machine Vision Conference 2020},
-  year={2020}
-}
